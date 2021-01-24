@@ -20,7 +20,7 @@ export default function Products() {
 
   return (
     <div>
-      return <h1>{router.query.slug}</h1>
+      <h1>{router.query.slug}</h1>
 
       <button onClick={handleAddToCart}>Add to cart</button>
 
