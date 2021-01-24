@@ -1,0 +1,3 @@
+vercel login
+navegue até a pasta do projeto
+vercel
